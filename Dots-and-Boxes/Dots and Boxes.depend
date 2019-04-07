@@ -1,0 +1,90 @@
+# depslib dependency file v1.0
+1513981715 source:f:\csed21\first term\programming\project\dots and boxes\gameloop.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	<wchar.h>
+	<conio.h>
+	<math.h>
+	"gameloop.h"
+	"UserInterface.h"
+	"moves.h"
+	"save.h"
+	"ranking.h"
+
+1513854579 f:\csed21\first term\programming\project\dots and boxes\gameloop.h
+
+1513956527 f:\csed21\first term\programming\project\dots and boxes\userinterface.h
+
+1513956527 f:\csed21\first term\programming\project\dots and boxes\moves.h
+
+1513854331 f:\csed21\first term\programming\project\dots and boxes\save.h
+
+1513946258 f:\csed21\first term\programming\project\dots and boxes\ranking.h
+
+1513856356 source:f:\csed21\first term\programming\project\dots and boxes\main.c
+	<stdio.h>
+	<stdlib.h>
+	"UserInterface.h"
+
+1513961637 source:f:\csed21\first term\programming\project\dots and boxes\moves.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	<wchar.h>
+	<conio.h>
+	<math.h>
+	"moves.h"
+	"gameloop.h"
+	"UserInterface.h"
+
+1513972988 source:f:\csed21\first term\programming\project\dots and boxes\ranking.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	<wchar.h>
+	<conio.h>
+	<math.h>
+	"ranking.h"
+	"UserInterface.h"
+	"gameloop.h"
+
+1513966135 source:f:\csed21\first term\programming\project\dots and boxes\save.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	<conio.h>
+	<math.h>
+	"save.h"
+	"UserInterface.h"
+	"gameloop.h"
+	"moves.h"
+
+1513965380 source:f:\csed21\first term\programming\project\dots and boxes\userinterface.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	<wchar.h>
+	<conio.h>
+	<math.h>
+	"UserInterface.h"
+	"ranking.h"
+	"save.h"
+	"gameloop.h"
+	"moves.h"
+
